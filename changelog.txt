@@ -1,4 +1,4 @@
-            **Changelog v1.O Release**s
+              **Changelog v1.O Release**
 
 + Added Login Menu
 + Added Extend License
