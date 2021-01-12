@@ -5,6 +5,8 @@
 + Added Auto Updater
 + Added Changelog
 + Added g0dcto Protection (Kernel)
++ Added Language Menu
++ Added Turkish Language
 + Fixed Registration System
 + Fixed m_zoomLevel Error
 - Removed Old HWID System
